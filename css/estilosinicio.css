@@ -1,0 +1,64 @@
+.bar{
+	background: #f2f2f2;
+	
+	
+}
+.navbar-brand{
+	margin-left: 100px;
+	font-family: california;
+	font-style: italic;
+	font-size: 30px;
+
+}
+.elementosDerecha{
+	margin-right: 150px;
+}
+.dropdown .btn{
+	background:  #f2f2f2;
+}
+
+.alinearbotones{
+	margin-left: 30%;
+	 
+	position: relative;
+}
+.derecha{
+	padding-left: 5%;
+
+	display: inline;
+}
+
+
+/*Eliminamos el padding de las filas*/
+.sinpadding{
+	padding:1px;
+
+}
+/* aqui comienza las primeras fotos*/
+
+
+.primerasfotos{
+	margin-top: 0px;
+	padding-top: 0px;
+	background: #fff;
+	width: 100%;
+	max-height:300px;	
+}
+
+.primerasfotos img{
+	max-width: 100%;
+}
+
+
+
+
+iframe {
+    max-width: 100%; 
+    height:98%;    
+}
+
+
+
+
+
+

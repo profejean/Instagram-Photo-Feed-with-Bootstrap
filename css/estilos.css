@@ -1,0 +1,165 @@
+.bar{
+	background: #f2f2f2;
+	
+	
+}
+.navbar-brand{
+	margin-left: 100px;
+	font-family: california;
+	font-style: italic;
+	font-size: 30px;
+
+}
+.elementosDerecha{
+	margin-right: 200px;
+}
+.dropdown .btn{
+	background:  #f2f2f2;
+}
+
+.alinearbotones{
+	margin-left: 30%;
+	 
+	position: relative;
+}
+.derecha{
+	padding-left: 5%;
+
+	display: inline;
+}
+
+.fondo{
+	background: #DCDCDC;
+
+}
+
+/* aqui comienza la primera foto*/
+
+
+.primerafoto{
+	margin-top: 60px;
+	padding-top: 10px;
+	background: #fff;
+	width: 100%;	
+}
+
+.primertitulo div h5{
+	float:left;
+	padding-left: 10px;
+
+}
+
+.primertitulo div p{
+	float:right;
+	padding-right: 10px;
+}
+
+.primertitulo img{
+	max-width: 100%;
+}
+.descripcionprimerafoto h6{
+	padding: 0px;
+	
+}
+
+.descripcionprimerafoto p{
+	text-align: justify;
+	background: #fff;
+
+}
+
+/* aqui comienza la segunda foto*/
+
+.segundafoto{
+	margin-top: 60px;
+	padding-top: 10px;
+	background: #fff;
+	width: 100%;	
+}
+
+.segundotitulo div h5{
+	float:left;
+	padding-left: 10px;
+
+}
+
+.segundotitulo div p{
+	float:right;
+	padding-right: 10px;
+}
+
+.segundotitulo img{
+	max-width: 100%;
+}
+
+.descripcionsegundafoto p{
+	text-align: justify;
+	background: #fff;
+}
+
+/* aqui comienza la tercera foto*/
+
+.tercerafoto{
+	margin-top: 60px;
+	padding-top: 10px;
+	background: #fff;
+	width: 100%;	
+}
+
+.tercertitulo div h5{
+	float:left;
+	padding-left: 10px;
+
+}
+
+.tercertitulo div p{
+	float:right;
+	padding-right: 10px;
+}
+
+.tercertitulo img{
+	max-width: 100%;
+}
+
+.descripciontercerafoto p{
+	text-align: justify;
+	background: #fff;
+}
+
+/* aqui comienza la cuarta foto*/
+
+.cuartafoto{
+	margin-top: 60px;
+	padding-top: 10px;
+	background: #fff;
+	width: 100%;	
+
+}
+
+.cuartotitulo div h5{
+	float:left;
+	padding-left: 10px;
+
+}
+
+.cuartotitulo div p{
+	float:right;
+	padding-right: 10px;
+}
+
+.cuartotitulo img{
+	
+	max-width: 100%;
+}
+
+.descripcioncuartafoto p{
+
+	text-align: justify;
+	background: #fff;
+
+
+/*este margen es para el final de la pagina no copiar si esta foto no es la ultima*/ 
+
+	margin-bottom: 60px;
+
+}
